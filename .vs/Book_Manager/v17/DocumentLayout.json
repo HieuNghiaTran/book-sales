@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\forms\\addnewbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:forms\\addnewbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\repositories\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:repositories\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\forms\\saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:forms\\saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\forms\\detail_invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:forms\\detail_invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\forms\\saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:forms\\saleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\forms\\detail_invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:forms\\detail_invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\repositories\\booksalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:repositories\\booksalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\models\\invoicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:models\\invoicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:repositories\\publisherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\models\\booksalecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:models\\booksalecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\forms\\addnewbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:forms\\addnewbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\forms\\listbooksales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:forms\\listbooksales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\forms\\listbooksales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:forms\\listbooksales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\repositories\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:repositories\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\models\\booksale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:models\\booksale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|c:\\users\\administrator\\desktop\\new folder\\book_manager-main\\repositories\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA05EBC-D7BE-4697-953A-003402CA99D5}|Book_Manager.csproj|solutionrelative:repositories\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListBookSales.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\ListBookSales.cs",
+              "RelativeDocumentMoniker": "Forms\\ListBookSales.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\ListBookSales.cs",
+              "RelativeToolTip": "Forms\\ListBookSales.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAcwFcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:26:35.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookSaleContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Models\\BookSaleContext.cs",
+              "RelativeDocumentMoniker": "Models\\BookSaleContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Models\\BookSaleContext.cs",
+              "RelativeToolTip": "Models\\BookSaleContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:48:17.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detail_Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\Detail_Invoice.cs",
+              "RelativeDocumentMoniker": "Forms\\Detail_Invoice.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\Detail_Invoice.cs",
+              "RelativeToolTip": "Forms\\Detail_Invoice.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:41:45.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail_Invoice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\Detail_Invoice.cs",
+              "RelativeDocumentMoniker": "Forms\\Detail_Invoice.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\Detail_Invoice.cs [Design]",
+              "RelativeToolTip": "Forms\\Detail_Invoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:39:20.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookSale.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Models\\BookSale.cs",
+              "RelativeDocumentMoniker": "Models\\BookSale.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Models\\BookSale.cs",
+              "RelativeToolTip": "Models\\BookSale.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAD4vyMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:27:29.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\Database.cs",
+              "RelativeDocumentMoniker": "Repositories\\Database.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\Database.cs",
+              "RelativeToolTip": "Repositories\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:58:02.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListBookSales.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\ListBookSales.cs",
+              "RelativeDocumentMoniker": "Forms\\ListBookSales.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\ListBookSales.cs [Design]",
+              "RelativeToolTip": "Forms\\ListBookSales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:07:46.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\IInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IInvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\IInvoiceRepository.cs",
+              "RelativeToolTip": "Repositories\\IInvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:49:43.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\SalesHistory.cs",
+              "RelativeDocumentMoniker": "Forms\\SalesHistory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\SalesHistory.cs",
+              "RelativeToolTip": "Forms\\SalesHistory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:39:11.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\InvoiceRepository.cs",
+              "RelativeToolTip": "Repositories\\InvoiceRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA0wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:32:50.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:24:00.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookSaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\BookSaleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookSaleRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\BookSaleRepository.cs",
+              "RelativeToolTip": "Repositories\\BookSaleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:38:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Models\\InvoiceContext.cs",
+              "RelativeDocumentMoniker": "Models\\InvoiceContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Models\\InvoiceContext.cs",
+              "RelativeToolTip": "Models\\InvoiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:16:48.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PublisherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\PublisherRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PublisherRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Repositories\\PublisherRepository.cs",
+              "RelativeToolTip": "Repositories\\PublisherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T07:15:43.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddNewBill.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\AddNewBill.cs",
+              "RelativeDocumentMoniker": "Forms\\AddNewBill.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\AddNewBill.cs",
+              "RelativeToolTip": "Forms\\AddNewBill.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAiwLUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:39:43.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\SalesHistory.cs",
+              "RelativeDocumentMoniker": "Forms\\SalesHistory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\SalesHistory.cs [Design]",
+              "RelativeToolTip": "Forms\\SalesHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:31:11.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddNewBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\AddNewBill.cs",
+              "RelativeDocumentMoniker": "Forms\\AddNewBill.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\New folder\\Book_Manager-main\\Forms\\AddNewBill.cs [Design]",
+              "RelativeToolTip": "Forms\\AddNewBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:39:53.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
